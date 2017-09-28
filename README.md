@@ -12,5 +12,5 @@ API key is set in config.exs
 config :weather, api_key: 'YOUR API KEY'
 ```
 
-<p>using the API as https://github.com/j-peso/WeatherXML but consuming JSON</p>
+<p>using same API as https://github.com/j-peso/WeatherXML but consuming JSON</p>
 <p>API key generated at openweathermap.org</p>
